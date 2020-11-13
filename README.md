@@ -36,7 +36,7 @@ Includes integrations such as:
 * email composition
 
 ## Requirements
-* [Visual Studio __2015__](https://www.visualstudio.com/en-us/products/vs-2015-product-editions.aspx) (14.0 or higher) to compile C# 6 langage features (or Xamarin Studio OS X)
+* [Visual Studio __2015__](https://www.visualstudio.com/products/vs-2015-product-editions.aspx?WT.mc_id=dotnet-0000-abewan) (14.0 or higher) to compile C# 6 langage features (or Xamarin Studio OS X)
 * Xamarin add-ons for Visual Studio (available via the Visual Studio installer)
 * __Visual Studio Community Edition is fully supported!__
 
@@ -55,10 +55,10 @@ Insert it in the Android project: `~/Properties/AndroidManifest.xml`:
 ## Enabling SQLite for UWP
 
 The UWP app requires that you install the SQLite for UWP extension for Visual Studio. You can find the latest version here:
-https://visualstudiogallery.msdn.microsoft.com/4913e7d5-96c9-4dde-a1a1-69820d615936
+https://visualstudiogallery.msdn.microsoft.com/4913e7d5-96c9-4dde-a1a1-69820d615936?WT.mc_id=dotnet-0000-abewan
 
 The steps that were taken to implement it in the UWP project can be found in steps 1-3 here:
-https://azure.microsoft.com/en-us/documentation/articles/app-service-mobile-windows-store-dotnet-get-started-offline-data/#_update-the-client-app-to-support-offline-features
+https://azure.microsoft.com/documentation/articles/app-service-mobile-windows-store-dotnet-get-started-offline-data/?WT.mc_id=dotnet-0000-abewan#_update-the-client-app-to-support-offline-features
 
 ## Platform-specific UI Features (in native version only)
 | 3D Touch Previewing (iOS) | Shared View Transitions (Android) |
